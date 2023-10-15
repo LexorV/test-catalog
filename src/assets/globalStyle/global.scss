@@ -1,0 +1,6 @@
+@import "../fonts/stylesheet.scss";
+@import "./mixins.scss";
+
+@mixin style1 {
+    color: red;
+  }
